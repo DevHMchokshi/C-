@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/User/Desktop/C++/practice_of__c++",
-      "program": "c:/Users/User/Desktop/C++/practice_of__c++/build/Debug/outDebug",
+      "cwd": "c:/Users/User/Desktop/C++/practice_of__c++/multipliction_table/array",
+      "program": "c:/Users/User/Desktop/C++/practice_of__c++/multipliction_table/array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
